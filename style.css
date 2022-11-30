@@ -1,5 +1,6 @@
 h1 {font-size: 80px;
-color: blue;
+color: rgb(23, 23, 24);
 text-align: center;
 text-decoration: underline;
 }
+body {background-color: rgba(255, 0, 0, 0.836);}
