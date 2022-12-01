@@ -13,6 +13,8 @@ table{
     border: 2px black solid;
     border-collapse: collapse;
 }
-.award{display: flex-wrap;
-display: flex-start;
+.award{
+display: flex;
+flex-direction:row;
 }
+p{text-align: left;}
