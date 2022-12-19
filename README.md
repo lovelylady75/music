@@ -1,1 +1,2 @@
-# music
+# music  
+Good work on this project. I like the way you have your code written out as well as how you have it styled. One suggestion would be work to center your bullet points so they arent seperated on the page. Good work!
